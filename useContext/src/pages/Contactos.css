@@ -1,0 +1,21 @@
+.info-container {
+    width: 1000px;
+    
+    margin: 40px auto;
+    padding: 32px 24px;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+    font-family: 'Segoe UI', Arial, sans-serif;
+    color: #222;
+  }
+
+.inputComment {
+    padding: 0.7rem 0.9rem;
+    border: 1px solid #dfe6e9;
+    border-radius: 6px;
+    font-size: 1rem;
+    background: #f9fafb;
+    transition: border 0.2s;
+    height: 100px;
+  }
